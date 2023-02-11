@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="selenium_basics.Login_test">
+      <class name="selenium_basics.Learn_Dropdown">
         <methods>
-          <include name="locators"/>
+          <include name="DynamicDropdown"/>
         </methods>
-      </class> <!-- selenium_basics.Login_test -->
+      </class> <!-- selenium_basics.Learn_Dropdown -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

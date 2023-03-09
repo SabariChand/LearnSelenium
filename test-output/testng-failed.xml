@@ -5,7 +5,7 @@
     <classes>
       <class name="selenium_basics.Learn_Dropdown">
         <methods>
-          <include name="DynamicDropdown"/>
+          <include name="AutosuggetiveDropdown"/>
         </methods>
       </class> <!-- selenium_basics.Learn_Dropdown -->
     </classes>

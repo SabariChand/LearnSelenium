@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="selenium_basics.Learn_Dropdown">
+      <class name="selenium_basics.Learn_Screen_shot">
         <methods>
-          <include name="AutosuggetiveDropdown"/>
+          <include name="Learn_Screen_shot"/>
+          <include name="Learn_Element_Screenshot"/>
         </methods>
-      </class> <!-- selenium_basics.Learn_Dropdown -->
+      </class> <!-- selenium_basics.Learn_Screen_shot -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
